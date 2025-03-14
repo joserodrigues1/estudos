@@ -1,0 +1,30 @@
+h1{
+    color: #055a8b;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    width:450px;
+    margin: auto;
+}
+p{
+    color: black;
+    background-color: #055a8b;
+    padding: 10px;
+    border-radius: 10px;
+}
+h2{
+    color: deepskyblue;
+    
+}
+h3{
+    color: #055a8b;
+    
+
+}
+h4{
+    color: #055a8b;
+}
+body{
+    background-color: rgb(255, 249, 249);
+}
